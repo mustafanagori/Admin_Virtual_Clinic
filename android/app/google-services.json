@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "592670449612",
+    "firebase_url": "https://virtualclinic-91d78-default-rtdb.firebaseio.com",
+    "project_id": "virtualclinic-91d78",
+    "storage_bucket": "virtualclinic-91d78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592670449612:android:f17dcf34a15178638e8769",
+        "android_client_info": {
+          "package_name": "com.example.admin_doctor_patent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592670449612-7jskumcmq0tbfhrgcbbu5mt9d8bm22be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZIq6itTn3f1e3fGnHySJmQJeksbapL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592670449612-7jskumcmq0tbfhrgcbbu5mt9d8bm22be.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592670449612-6vpcghpaeo99ng04bs19bfmjdqm253fm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorandpatient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592670449612:android:741778218746bc058e8769",
+        "android_client_info": {
+          "package_name": "com.example.doctorandpatient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592670449612-7jskumcmq0tbfhrgcbbu5mt9d8bm22be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZIq6itTn3f1e3fGnHySJmQJeksbapL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592670449612-7jskumcmq0tbfhrgcbbu5mt9d8bm22be.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592670449612-6vpcghpaeo99ng04bs19bfmjdqm253fm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doctorandpatient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
